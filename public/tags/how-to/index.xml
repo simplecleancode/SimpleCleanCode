@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How To on Simple Clean Code</title>
+    <link>//localhost:1313/tags/how-to/</link>
+    <description>Recent content in How To on Simple Clean Code</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Dec 2024 18:07:58 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>how to build a website</title>
+      <link>//localhost:1313/posts/howtobuildawebsite/</link>
+      <pubDate>Tue, 24 Dec 2024 18:07:58 -0500</pubDate>
+      <guid>//localhost:1313/posts/howtobuildawebsite/</guid>
+      <description>&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;&#xA;&lt;p&gt;A website can be created using HTML, CSS, and Javascript. a quick and easy way to build a website is by using a static site generator like HUGO. &lt;a href=&#34;https://gohugo.io/&#34;&gt;click here to go to the hugo homepage.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
