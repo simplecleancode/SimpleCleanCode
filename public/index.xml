@@ -6,13 +6,20 @@
     <description>Recent content on Simple Clean Code</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Dec 2024 18:31:15 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 18:02:41 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Markdown</title>
+      <link>//localhost:1313/posts/markdown/</link>
+      <pubDate>Mon, 30 Dec 2024 18:02:41 -0500</pubDate>
+      <guid>//localhost:1313/posts/markdown/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;title&lt;/h1&gt;&#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;html&amp;gt;&#xA;&amp;lt;/html&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
       <title>Learn Unreal Engine</title>
-      <link>//localhost:1313/posts/second/</link>
+      <link>//localhost:1313/posts/learnunreal/</link>
       <pubDate>Tue, 24 Dec 2024 18:31:15 -0500</pubDate>
-      <guid>//localhost:1313/posts/second/</guid>
+      <guid>//localhost:1313/posts/learnunreal/</guid>
       <description>&lt;h1 id=&#34;what-is-unreal-engine&#34;&gt;What is Unreal Engine&lt;/h1&gt;&#xA;&lt;p&gt;Unreal Engine 5 (UE5) is a powerful 3D game development tool created by Epic Games, which allows developers to create highly realistic and detailed games. This tool also allows you to create cinematic scenes. &lt;a href=&#34;https://www.unrealengine.com/en-US&#34;&gt;Click here to learn more about Unreal Engine.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
