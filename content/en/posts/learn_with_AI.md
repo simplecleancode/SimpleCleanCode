@@ -1,6 +1,4 @@
 +++
-
-draft = true
 featured_image = "/images/learn_with_ai.jpg"
 description = 'Increase productivity'
 title = 'Learn Faster With AI'
