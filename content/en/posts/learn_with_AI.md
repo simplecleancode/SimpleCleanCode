@@ -1,5 +1,5 @@
 +++
-date = '2025-06-14T14:09:20-04:00'
+
 draft = true
 featured_image = "/images/learn_with_ai.jpg"
 description = 'Increase productivity'
