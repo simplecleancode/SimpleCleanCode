@@ -1,4 +1,6 @@
 +++
+date = '2025-09-15T10:36:10-04:00'
+daft = 'false'
 featured_image = "/images/learn_with_ai.jpg"
 description = 'Increase productivity'
 title = 'Learn Faster With AI'
