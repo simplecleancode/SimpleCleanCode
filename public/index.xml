@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simple Clean Code</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Simple Clean Code</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Jun 2025 14:09:20 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learn Faster With AI</title>
-      <link>//localhost:1313/posts/learn_with_ai/</link>
+      <link>http://localhost:1313/posts/learn_with_ai/</link>
       <pubDate>Sat, 14 Jun 2025 14:09:20 -0400</pubDate>
-      <guid>//localhost:1313/posts/learn_with_ai/</guid>
+      <guid>http://localhost:1313/posts/learn_with_ai/</guid>
       <description>&lt;p&gt;Find answers fast with AI tool. Use AI tools to find answers to your questions fast or even ask AI to write code for you. A class like the one provided by &lt;a href=&#34;https://savageai.com/&#34;&gt;Savageai&lt;/a&gt; can help you learn how to use Copilot and other AI tools effectively!&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/QnvlX6iwEpc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Build a Website</title>
-      <link>//localhost:1313/posts/build-_website_free/</link>
+      <link>http://localhost:1313/posts/build-_website_free/</link>
       <pubDate>Sat, 14 Jun 2025 12:41:39 -0400</pubDate>
-      <guid>//localhost:1313/posts/build-_website_free/</guid>
+      <guid>http://localhost:1313/posts/build-_website_free/</guid>
       <description>&lt;p&gt;Building and hosting a website for free is easy. A static site generator called Hugo was used to create this website. Services like Github, Gitlab, and AWS and Netlify offer free hosting for static web sites.&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0RKpf3rK57I?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Learn Fusion</title>
-      <link>//localhost:1313/posts/learn_fustion/</link>
+      <link>http://localhost:1313/posts/learn_fustion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/learn_fustion/</guid>
+      <guid>http://localhost:1313/posts/learn_fustion/</guid>
       <description>&lt;p&gt;Fusion 360 is a cloud-based software platform that combines computer-aided design (CAD), computer-aided manufacturing (CAM), and computer-aided engineering (CAE) into one integrated environment. It allows users to design, simulate, and prepare products for manufacturing, making it a comprehensive tool for product development.&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/eaVb4NiVazM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
   </channel>

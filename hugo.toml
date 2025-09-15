@@ -1,5 +1,6 @@
 title = "Simple Clean Code"
-baseURL = ""
+baseURL = "https://simplecleancode.com/"
+
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
