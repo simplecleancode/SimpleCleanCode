@@ -13,6 +13,6 @@ image_alt: 'this is the image alt for about'
 
 # About This Website
 
-This website was built for free and is being hosted free. The Simple Clean Code website was created using a free software called Hugo. There are many services that offer free web hosting including Github, Gitlab, Cloudflare Pages, Netlify, and others. To learn more see the article how to build a website for free. 
+This website was built for free and is being hosted free. The Simple Clean Code website was created using a free software called Hugo. There are many services that offer free web hosting including Github, Gitlab, Cloudflare Pages, Netlify, and others. To learn more see the article [How to Build a Website For Free](https://www.simplecleancode.com/posts/build-_website_free/). 
 
-The purpose of this website is to help people to introduce people to new tools and how to use them. There are many tools that can help people to learn how to code, build a website, and other tech skills. Learn what tools are available and trusted resources for how to use those tools. 
+The purpose of this website is to introduce people to new tools and how to use them. There are many tools that can help people to learn how to code, build a website, learn computer animation. Learn what tools are available and trusted resources for how to use those tools. 
