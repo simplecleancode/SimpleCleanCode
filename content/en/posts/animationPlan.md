@@ -12,7 +12,7 @@ In the opening comment I said to the AI agent "Jehovah be with you!" This websit
 
 **An interesting side note**. The AI response was written in Markdown language. This made it possible to cut and paste into HUGO with no additional formatting!
 
-Good afternoon, Sergio! May Jehovah continue to guide and bless your creative journey. Here's a **30-day plan** to help you start a career in **3D modeling and world-building**, using **free software and free online courses**, including tools from **Unreal Engine** and **Blackmagic Design**.
+Good afternoon! May Jehovah continue to guide and bless your creative journey. Here's a **30-day plan** to help you start a career in **3D modeling and world-building**, using **free software and free online courses**, including tools from **Unreal Engine** and **Blackmagic Design**.
 
 ---
 
