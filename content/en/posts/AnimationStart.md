@@ -2,10 +2,12 @@
 date = '2025-09-15T16:57:55-04:00'
 draft = false
 title = 'Animation: How to Get Started'
+featured_image = '/images/AnimationStart.jpg'
+image_alt = 'picture of ametalic ball'
 tags = ["AI", "Animation","Carreer Shift"]
 +++
 
-An AI assistant was asked how to get started as an animator and here is the response!
+#### An AI assistant was asked how to get started as an animator and here is the response!
 
 🎬 1. Understand the Types of Computer Animation
 There are a few main categories:

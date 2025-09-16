@@ -1,7 +1,10 @@
 +++
 date = '2025-09-15T16:48:51-04:00'
+featured_image = '/images/AnimationPlan.jpg'
+image_alt = 'picture of a black ball with orange nodes on the side'
 draft = false
-title = 'AnimationPlan'
+title = 'Animation: Learn in 30 Days'
+tags = ["AI", "Animation"]
 +++
 
 #### Here is part of a conversation with an AI agent.  
