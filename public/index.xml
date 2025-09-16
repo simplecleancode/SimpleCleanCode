@@ -6,8 +6,22 @@
     <description>Recent content on Simple Clean Code</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Sep 2025 10:36:10 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 16:57:55 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animation: How to Get Started</title>
+      <link>http://localhost:1313/posts/animationstart/</link>
+      <pubDate>Mon, 15 Sep 2025 16:57:55 -0400</pubDate>
+      <guid>http://localhost:1313/posts/animationstart/</guid>
+      <description>&lt;p&gt;An AI assistant was asked how to get started as an animator and here is the response!&lt;/p&gt;&#xA;&lt;p&gt;🎬 1. Understand the Types of Computer Animation&#xA;There are a few main categories:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2D Animation (like traditional cartoons or motion graphics)&lt;/li&gt;&#xA;&lt;li&gt;3D Animation (used in films, games, and simulations)&lt;/li&gt;&#xA;&lt;li&gt;Stop Motion (which might appeal to you as a sculptor)&lt;/li&gt;&#xA;&lt;li&gt;Motion Capture (used in realistic character animation)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🧰 2. Learn the Tools of the Trade&#xA;Here are some industry-standard tools to explore:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AnimationPlan</title>
+      <link>http://localhost:1313/posts/animationplan/</link>
+      <pubDate>Mon, 15 Sep 2025 16:48:51 -0400</pubDate>
+      <guid>http://localhost:1313/posts/animationplan/</guid>
+      <description>&lt;h4 id=&#34;here-is-part-of-a-conversation-with-an-ai-agent&#34;&gt;Here is part of a conversation with an AI agent.&lt;/h4&gt;&#xA;&lt;p&gt;In the opening comment I said to the AI agent &amp;ldquo;Jehovah be with you!&amp;rdquo; This website is not religious and anyone can choose to worship or not worship whomever they wish. Everyone is free to include the name of the God which they choose to serve. Notice the interesting response that follows.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;An interesting side note&lt;/strong&gt;. The AI response was written in Markdown language. This made it possible to cut and paste into HUGO with no additional formatting!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Learn Faster With AI</title>
       <link>http://localhost:1313/posts/ai_learn/</link>
