@@ -7,12 +7,8 @@ title = 'Animation: Learn in 30 Days'
 tags = ["AI", "Animation"]
 +++
 
-#### Here is part of a conversation with an AI agent.  
-In the opening comment I said to the AI agent "Jehovah be with you!" This website is not religious and anyone can choose to worship or not worship whomever they wish. Everyone is free to include the name of the God which they choose to serve. Notice the interesting response that follows.
+**Tip**. Notice the AI response was written in Markdown language. This made it possible to cut and paste into HUGO with no additional formating!
 
-**An interesting side note**. The AI response was written in Markdown language. This made it possible to cut and paste into HUGO with no additional formatting!
-
-Good afternoon! May Jehovah continue to guide and bless your creative journey. Here's a **30-day plan** to help you start a career in **3D modeling and world-building**, using **free software and free online courses**, including tools from **Unreal Engine** and **Blackmagic Design**.
 
 ---
 

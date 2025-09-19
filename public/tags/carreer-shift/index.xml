@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carreer Shift on Simple Clean Code</title>
-    <link>http://localhost:1313/tags/carreer-shift/</link>
+    <link>https://simplecleancode.com/tags/carreer-shift/</link>
     <description>Recent content in Carreer Shift on Simple Clean Code</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Sep 2025 16:57:55 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/carreer-shift/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simplecleancode.com/tags/carreer-shift/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animation: How to Get Started</title>
-      <link>http://localhost:1313/posts/animationstart/</link>
+      <link>https://simplecleancode.com/posts/animationstart/</link>
       <pubDate>Mon, 15 Sep 2025 16:57:55 -0400</pubDate>
-      <guid>http://localhost:1313/posts/animationstart/</guid>
-      <description>&lt;p&gt;An AI assistant was asked how to get started as an animator and here is the response!&lt;/p&gt;&#xA;&lt;p&gt;🎬 1. Understand the Types of Computer Animation&#xA;There are a few main categories:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2D Animation (like traditional cartoons or motion graphics)&lt;/li&gt;&#xA;&lt;li&gt;3D Animation (used in films, games, and simulations)&lt;/li&gt;&#xA;&lt;li&gt;Stop Motion (which might appeal to you as a sculptor)&lt;/li&gt;&#xA;&lt;li&gt;Motion Capture (used in realistic character animation)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🧰 2. Learn the Tools of the Trade&#xA;Here are some industry-standard tools to explore:&lt;/p&gt;</description>
+      <guid>https://simplecleancode.com/posts/animationstart/</guid>
+      <description>&lt;h4 id=&#34;an-ai-assistant-was-asked-how-to-get-started-as-an-animator-and-here-is-the-response&#34;&gt;An AI assistant was asked how to get started as an animator and here is the response!&lt;/h4&gt;&#xA;&lt;p&gt;🎬 1. Understand the Types of Computer Animation&#xA;There are a few main categories:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2D Animation (like traditional cartoons or motion graphics)&lt;/li&gt;&#xA;&lt;li&gt;3D Animation (used in films, games, and simulations)&lt;/li&gt;&#xA;&lt;li&gt;Stop Motion (which might appeal to you as a sculptor)&lt;/li&gt;&#xA;&lt;li&gt;Motion Capture (used in realistic character animation)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🧰 2. Learn the Tools of the Trade&#xA;Here are some industry-standard tools to explore:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
