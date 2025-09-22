@@ -6,8 +6,15 @@
     <description>Recent content on Simple Clean Code</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Sep 2025 16:57:55 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 15:02:50 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blender: Plan for Learning Sculpting</title>
+      <link>http://localhost:1313/posts/blendermodifiersplan/</link>
+      <pubDate>Mon, 22 Sep 2025 15:02:50 -0400</pubDate>
+      <guid>http://localhost:1313/posts/blendermodifiersplan/</guid>
+      <description>&lt;h3 id=&#34;an-ai-agent-was-asked-to-find-the-top-free-tutorials-and-courses-for-learning-sculpting-and-modifiers-in-blender-here-is-the-response&#34;&gt;An AI agent was asked to find the top free tutorials and courses for learning sculpting and modifiers in Blender. Here is the response.&lt;/h3&gt;&#xA;&lt;p&gt;Nice — sculpting and modifiers are two of the most fun (and useful) parts of Blender. Below I’ve picked &lt;strong&gt;the best free, up-to-date&lt;/strong&gt; resources (playlists and single videos) and a short, practical learning path you can start today.&lt;/p&gt;&#xA;&lt;h1 id=&#34;top-free-courses--tutorials-what-to-watch-first&#34;&gt;Top free courses &amp;amp; tutorials (what to watch first)&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Blender Foundation — &lt;em&gt;Blender Fundamentals&lt;/em&gt; (official)&lt;/strong&gt; — the canonical starter series that covers Blender UI, navigation, and core systems (includes modifier basics). Great to get comfortable with the interface before tackling sculpting workflows. (&lt;a href=&#34;https://www.youtube.com/%40BlenderOfficial?utm_source=chatgpt.com&#34; title=&#34;Blender&#34;&gt;YouTube&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Animation: How to Get Started</title>
       <link>http://localhost:1313/posts/animationstart/</link>
