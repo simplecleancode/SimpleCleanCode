@@ -9,7 +9,7 @@ tags = ["AI", "Animation"]
 
 ### An AI assistant was asked to create a plan to learn 3D animation in 30 days. The following is the response.
 
-**Tip**. Notice the AI response was written in Markdown language. This made it possible to cut and paste into HUGO with no additional formating!
+**Tip**. Hello Notice the AI response was written in Markdown language. This made it possible to cut and paste into HUGO with no additional formatting!
 
 
 ---
